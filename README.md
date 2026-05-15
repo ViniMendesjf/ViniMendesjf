@@ -20,7 +20,7 @@
 ### 👋 Olá! 👋
 
 Desenvolvedor **Fullstack** apaixonado por código limpo e dados que contam histórias.
-Trabalhei já com **Philips Tasy EMR**, sistemas **PACS** e banco de dados com **PL/SQL**.
+Trabalhei com **Philips Tasy EMR**, sistemas **PACS** e banco de dados com **PL/SQL**.
 Construo interfaces modernas e uso **análise de dados** para extrair valor real de informações brutas.
 
 ```python
